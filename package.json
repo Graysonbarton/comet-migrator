@@ -30,7 +30,7 @@
     "@uniswap/v3-core": "^1.0.1",
     "@uniswap/v3-sdk": "^3.9.0",
     "@web3-react/core": "8.0.35-beta.0",
-    "@web3-react/metamask": "8.0.28-beta.0",
+    "@web3-react/metamask": "8.2.0",
     "@web3-react/network": "8.0.27-beta.0",
     "@web3-react/types": "8.0.20-beta.0",
     "@web3-react/url": "8.0.25-beta.0",
@@ -64,7 +64,7 @@
     "ts-jest": "^28.0.8",
     "typescript": "4.5.5",
     "vendoza": "0.0.4",
-    "vite": "^3.2.5"
+    "vite": "^3.2.10"
   },
   "packageManager": "yarn@3.2.0",
   "volta": {
